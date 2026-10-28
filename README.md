@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá, Meu nome é Álefe Matheus 👋
+
+## 📊 Linguagens mais usadas
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alefe2010&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 <!--
 **Alefe2010/Alefe2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
